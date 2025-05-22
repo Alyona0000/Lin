@@ -1,3 +1,6 @@
+# Python-код, який виконує симуляцію даних для 10 компаній, проводить нормалізацію, 
+# зменшує розмірність за допомогою PCA та будує графік результату
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
